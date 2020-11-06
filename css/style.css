@@ -1,5 +1,6 @@
 body {
   background: url('../media/space.jpg');
+  background-repeat: no-repeat;
   background-color: #000000;
   color: #ffffff;
   font-family: 'Oswald', serif;
