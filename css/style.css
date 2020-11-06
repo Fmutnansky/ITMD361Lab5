@@ -1,7 +1,6 @@
 body {
   background: url('../media/space.jpg');
   background-color: #000000;
-  background-repeat: no-repeat;
   color: #ffffff;
   font-family: 'Oswald', serif;
   text-align: center;
@@ -36,19 +35,19 @@ table {
   border-collapse: collapse;
 }
 .planetname a:link {
-  background-color: #52527a;
+  background-color: #8585ad;
   color: #ffffff;
 }
 .planetname:hover a:hover {
-  background-color: #52527a;
+  background-color: #8585ad;
   color: #e0e0eb;
 }
 .planetname a:active {
-  background-color: #52527a;
-  color: ##b3b3cc;
+  background-color: #8585ad;
+  color: #b3b3cc;
 }
 .planetname a:visited {
-  background-color: #52527a;
+  background-color: #8585ad;
   color: #ffffff;
 }
 h1 {
@@ -89,7 +88,7 @@ a.img:visited {
 }
 th,
 td {
-  background-color: #8585ad;
+  background-color: #ffffff;
   font-family: 'Roboto Slab', serif;
   font-weight: 500;
   padding: 10px 5px;
