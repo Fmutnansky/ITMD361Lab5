@@ -35,19 +35,19 @@ table {
   border-collapse: collapse;
 }
 .planetname a:link {
-  background-color: #8585ad;
+  background-color: #666699;
   color: #ffffff;
 }
 .planetname:hover a:hover {
-  background-color: #8585ad;
-  color: #e0e0eb;
+  background-color: #666699;
+  color: #a2a2c3;
 }
 .planetname a:active {
-  background-color: #8585ad;
-  color: #b3b3cc;
+  background-color: #666699;
+  color: #ffffff;
 }
 .planetname a:visited {
-  background-color: #8585ad;
+  background-color: #666699;
   color: #ffffff;
 }
 h1 {
@@ -66,15 +66,15 @@ p {
   font-weight: 500;
 }
 a.source:link {
-  color: #ffffff;
+  color: #b1b1cd;
   text-decoration: none;
 }
 a.source:hover {
-  color: #6c6d73;
+  color: #b1b1cd;
   text-decoration: underline;
 }
 a.source:visited {
-  color: #ffffff;
+  color: #b1b1cd;
   text-decoration: none;
 }
 a.img:link {
@@ -88,7 +88,7 @@ a.img:visited {
 }
 th,
 td {
-  background-color: #ffffff;
+  background-color: #8585ad;
   font-family: 'Roboto Slab', serif;
   font-weight: 500;
   padding: 10px 5px;
